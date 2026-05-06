@@ -1,10 +1,10 @@
 <?xml version = "1.0" encoding = "UTF-8"?>
-<?xml-stylesheet type = "text/xsl" href = "students.xsl"?>
+<?xml-stylesheet type = "text/xsl" href = "Exp12.xsl"?>
 <class> 
    <student rollno = "113">
-      <firstname>Sam</firstname>  
-      <lastname>Chavan</lastname> 
-      <nickname>Samu</nickname> 
+      <firstname>Pranali</firstname>  
+      <lastname>Nalawade</lastname> 
+      <nickname>Panu</nickname> 
       <marks>85</marks>
    </student> 
    <student rollno = "112"> 
@@ -14,9 +14,9 @@
       <marks>95</marks>
    </student>
    <student rollno = "111"> 
-   <firstname>Aditya</firstname> 
-    <lastname>Singh</lastname> 
-    <nickname>Adi</nickname> 
+   <firstname>Sneha</firstname> 
+    <lastname>Shegana</lastname> 
+    <nickname>Rani</nickname> 
     <marks>90</marks> 
    </student> 
 </class>
